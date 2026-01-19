@@ -1,9 +1,10 @@
 {
+    "id": "SharedData",
     "name": "SharedData",
-    "title": "Shared Data",
+    "title": "Tilo's Shared Data",
     "description": "Tilo's module for sharing data across worlds",
     "url": "https://github.com/TiloBuechsenschuss/foundry-shareddata",
-    "manifest": "https://github.com/TiloBuechsenschuss/foundry-shareddata/releases/download/1.0.0/module.json",
+    "manifest": "https://raw.githubusercontent.com/TiloBuechsenschuss/foundry-shareddata/refs/heads/master/module.json",
     "download": "https://github.com/TiloBuechsenschuss/foundry-shareddata/archive/refs/tags/1.0.0.zip",
     "authors": [
       {
@@ -17,7 +18,7 @@
     "version": "1.0.0",
     "compatibility": {
       "minimum": "9",
-      "verified": "12",
+      "verified": "13",
       "maximum": "99"
     },
     "packs": [
