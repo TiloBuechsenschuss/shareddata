@@ -24,142 +24,142 @@
     "packs": [
         {
           "name": "items_5e",
+          "id": "items_5e",
           "label": "5E Items",
-          "path": "packs/items_5e.db",
+          "path": "packs/items_5e",
           "type": "Item",
-          "system": "dnd5e",
-          "module": "shareddata"
+          "system": "dnd5e"
         },
         {
           "name": "items_pf2",
+          "id": "items_pf2",
           "label": "PF2 Items",
-          "path": "packs/items_pf2.db",
+          "path": "packs/items_pf2",
           "type": "Item",
-          "system": "pf2e",
-          "module": "shareddata"
+          "system": "pf2e"
         },
         {
           "name": "actors_5e",
+          "id": "actors_5e",
           "label": "5E Actors",
-          "path": "packs/actors_5e.db",
+          "path": "packs/actors_5e",
           "type": "Actor",
-          "system": "dnd5e",
-          "module": "shareddata"
+          "system": "dnd5e"
         },
         {
           "name": "actors_pf2",
+          "id": "actors_pf2",
           "label": "PF2 Actors",
-          "path": "packs/actors_pf2.db",
+          "path": "packs/actors_pf2",
           "type": "Actor",
-          "system": "pf2e",
-          "module": "shareddata"
+          "system": "pf2e"
         },
         {
           "name": "scenes",
+          "id": "scenes",
           "label": "Generic Scenes",
-          "path": "packs/scenes.db",
-          "type": "Scene",
-          "module": "shareddata"
+          "path": "packs/scenes",
+          "type": "Scene"
         },
         {
           "name": "scenes_5e",
+          "id": "scenes_5e",
           "label": "5E Scenes",
-          "path": "packs/scenes_5e.db",
-          "type": "Scene",
-          "module": "shareddata"
+          "path": "packs/scenes_5e",
+          "type": "Scene"
         },
         {
           "name": "scenes_pf2",
+          "id": "scenes_pf2",
           "label": "PF2 Scenes",
-          "path": "packs/scenes_pf2.db",
-          "type": "Scene",
-          "module": "shareddata"
+          "path": "packs/scenes_pf2",
+          "type": "Scene"
         },
         {
           "name": "journalentries",
+          "id": "journalentries",
           "label": "Generic Journal Entries",
-          "path": "packs/journalentries.db",
-          "type": "JournalEntry",
-          "module": "shareddata"
+          "path": "packs/journalentries",
+          "type": "JournalEntry"
         },
         {
           "name": "journalentries_5e",
+          "id": "journalentries_5e",
           "label": "5E Journal Entries",
-          "path": "packs/journalentries_5e.db",
-          "type": "JournalEntry",
-          "module": "shareddata"
+          "path": "packs/journalentries_5e",
+          "type": "JournalEntry"
         },
         {
           "name": "journalentries_pf2",
+          "id": "journalentries_pf2",
           "label": "PF2 Journal Entries",
-          "path": "packs/journalentries_pf2.db",
-          "type": "JournalEntry",
-          "module": "shareddata"
+          "path": "packs/journalentries_pf2",
+          "type": "JournalEntry"
         },
         {
           "name": "macros",
+          "id": "macros",
           "label": "Generic Macros",
-          "path": "packs/macros.db",
-          "type": "Macro",
-          "module": "shareddata"
+          "path": "packs/macros",
+          "type": "Macro"
         },
         {
           "name": "macros_5e",
+          "id": "macros_5e",
           "label": "5E Macros",
-          "path": "packs/macros_5e.db",
-          "type": "Macro",
-          "module": "shareddata"
+          "path": "packs/macros_5e",
+          "type": "Macro"
         },
         {
           "name": "macros_pf2",
+          "id": "macros_pf2",
           "label": "PF2 Macros",
-          "path": "packs/macros_pf2.db",
-          "type": "Macro",
-          "module": "shareddata"
+          "path": "packs/macros_pf2",
+          "type": "Macro"
         },
         {
           "name": "rolltables",
+          "id": "rolltables",
           "label": "Generic Roll Tables",
-          "path": "packs/rolltables.db",
-          "type": "RollTable",
-          "module": "shareddata"
+          "path": "packs/rolltables",
+          "type": "RollTable"
         },
         {
           "name": "rolltables_5e",
+          "id": "rolltables_5e",
           "label": "5E Roll Tables",
-          "path": "packs/rolltables_5e.db",
-          "type": "RollTable",
-          "module": "shareddata"
+          "path": "packs/rolltables_5e",
+          "type": "RollTable"
         },
         {
           "name": "rolltables_pf2",
+          "id": "rolltables_pf2",
           "label": "PF2 Roll Tables",
-          "path": "packs/rolltables_pf2.db",
-          "type": "RollTable",
-          "module": "shareddata"
+          "path": "packs/rolltables_pf2",
+          "type": "RollTable"
         },
         {
           "name": "playlists",
+          "id": "playlists",
           "label": "Generic Playlists",
-          "path": "packs/playlists.db",
-          "type": "Playlist",
-          "module": "shareddata"
+          "path": "packs/playlists",
+          "type": "Playlist"
         },
         {
           "name": "adventures_5e",
+          "id": "adventures_5e",
           "label": "5E Adventures",
-          "path": "packs/adventures_5e.db",
+          "path": "packs/adventures_5e",
           "type": "Adventure",
-          "system": "dnd5e",
-          "module": "shareddata"
+          "system": "dnd5e"
         },
         {
           "name": "adventures_pf2",
+          "id": "adventures_pf2",
           "label": "PF2 Adventures",
-          "path": "packs/adventures_pf2.db",
+          "path": "packs/adventures_pf2",
           "type": "Adventure",
-          "system": "pf2e",
-          "module": "shareddata"
+          "system": "pf2e"
         }
       ]
   }
