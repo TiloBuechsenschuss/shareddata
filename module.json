@@ -1,7 +1,10 @@
 {
     "name": "SharedData",
     "title": "Shared Data",
-    "description": "Sharing data across worlds",
+    "description": "Tilo's module for sharing data across worlds",
+    "url": "https://github.com/TiloBuechsenschuss/foundry-shareddata",
+    "manifest": "https://github.com/TiloBuechsenschuss/foundry-shareddata/raw/refs/heads/master/module.json",
+    "download": "https://github.com/TiloBuechsenschuss/foundry-shareddata/archive/refs/tags/1.0.0.zip",
     "authors": [
       {
         "id": "Tilo",
