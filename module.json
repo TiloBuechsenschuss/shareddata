@@ -1,6 +1,6 @@
 {
-    "id": "SharedData",
-    "name": "SharedData",
+    "id": "shareddata",
+    "name": "shareddata",
     "title": "Tilo's Shared Data",
     "description": "Tilo's module for sharing data across worlds",
     "url": "https://github.com/TiloBuechsenschuss/shareddata",
